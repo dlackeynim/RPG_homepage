@@ -1,0 +1,33 @@
+.logo {
+    height: 100px;
+    width: 300px;
+}
+
+.header {
+    display: flex;
+    justify-content: space-between;
+    background: black;
+}
+
+ul {
+    list-style-type:none;
+     display: flex;
+     gap: 50px;
+     font-size: 40px;
+     margin-right: 30px;
+  }
+
+a {
+    text-decoration: none;
+    color: #0099FF;
+  }
+
+  .topinfo {
+    display: flex;
+    
+  }
+  
+  .mainimage {
+    height: 300px;
+    width: 500px;
+  }
